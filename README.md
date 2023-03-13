@@ -12,8 +12,8 @@ I'm a mechanical engineer from Poli-USP graduated in 2021. I'm currently interes
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lucas-hattori-costa&show_icons=true&locale=en" alt="lucas-hattori-costa" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-hattori-costa&show_icons=true&locale=en&layout=compact" alt="lucas-hattori-costa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=McK-LucasHattori&show_icons=true&locale=en" alt="lucas-hattori-costa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=McK-LucasHattori&show_icons=true&locale=en&layout=compact" alt="lucas-hattori-costa" /></p>
 
 <br>
 
